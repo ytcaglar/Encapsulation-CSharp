@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
